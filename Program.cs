@@ -25,6 +25,7 @@ namespace SampleHttpClient
 
             // Cheer 600 lannonbr 12/27/2018
             // Cheer 100 nodebotanist 12/27/2018
+            // Cheer 1000 printscharming 12/27/2018
 
            Console.Out.WriteLine($"Found the organization {fritzAndFriends.FullName}");
 
